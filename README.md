@@ -1,5 +1,5 @@
 ### Hi there 👋, I am **_Ahmad Afidin_** 
-**Universitas Sriwijaya_**
+**Graduate of Computer Science_Sriwijaya Universiti**
 
 <a href="https://github.com/MsAhmad231" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/alwinw/alwinw?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
 <br>
